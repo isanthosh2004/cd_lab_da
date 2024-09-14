@@ -1,0 +1,6 @@
+Q QAB
+Q Ab
+A Ab
+A B
+B a
+B b
